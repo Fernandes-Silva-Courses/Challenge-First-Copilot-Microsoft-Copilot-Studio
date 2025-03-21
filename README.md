@@ -46,6 +46,6 @@
    ## 4.7 Language: You can set the primary language for the agent, and later add more languages if needed.
    ## 4.8 - In advanced edits, it is possible to select the respective solution, and everything is saved in the corresponding schema.
 
-Conclusion
+# Conclusion
 
 Following these steps allows us to fully harness the potential of Microsoft Copilot Studio, whether it's for creating modeled agents, customized solutions, or agents built from AI-generated descriptions. The platform offers extensive flexibility to configure agents that meet specific needs, integrating robust knowledge bases, languages, and functionalities. Additionally, the ability to test and analyze ensures a seamless and effective creation process. With the 60-day free trial phase, we can explore these innovative tools and lay the groundwork for implementing solutions that enhance user experiences and improve efficiency.
